@@ -1,0 +1,30 @@
+p,h1 {
+    color: red;
+    font-size: 40px;
+   text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 2px blue;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+html {
+    background-color: orange;
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: green;
+    padding: 0 20px 20px 20px;
+    border: 5px solid blue;
+}
+a{
+    color: red;
+    font-size: 72px;
+    text-align: center;
+    margin: auto;
+    padding: 20px 0;
+    text-shadow: 2px 2px 2px blue;
+}
