@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>CTF</title>
+	</head>
+	<body>
+		<h1> Welcome to CTF! </h1>
+		<p> There is a hidden link to the second stage of reaching the flag hidden on this website </p>
+		<a href="s2">.</a>
+	</body>
+</html>
