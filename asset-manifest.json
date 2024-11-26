@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.5e5af149.css",
-    "main.js": "/static/js/main.cc292dc7.js",
+    "main.js": "/static/js/main.92cd4c74.js",
     "static/js/453.94e90016.chunk.js": "/static/js/453.94e90016.chunk.js",
     "static/media/Tahu White.png": "/static/media/Tahu White.311ae7a58dd68d8e3e87.png",
     "index.html": "/index.html",
     "main.5e5af149.css.map": "/static/css/main.5e5af149.css.map",
-    "main.cc292dc7.js.map": "/static/js/main.cc292dc7.js.map",
+    "main.92cd4c74.js.map": "/static/js/main.92cd4c74.js.map",
     "453.94e90016.chunk.js.map": "/static/js/453.94e90016.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e5af149.css",
-    "static/js/main.cc292dc7.js"
+    "static/js/main.92cd4c74.js"
   ]
 }
